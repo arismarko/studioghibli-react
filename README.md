@@ -22,12 +22,12 @@ $ npm run test
 
 The main development location is the ```src``` directory:
   -   ```src```        The main source directory
-  --  ```api```        The api loading modules for the application
-  --  ```containers``` Top app layers
-  --  ```components``` Reusable components
-  --  ```actions```    FileAction and ActionTypes
-  --  ```reducers```   Film Reducer and Initial State  
-  --  ```store```      The store of the app
+  -  ```api```        The api loading modules for the application
+  -  ```containers``` Top app layers
+  -  ```components``` Reusable components
+  -  ```actions```    FileAction and ActionTypes
+  -  ```reducers```   Film Reducer and Initial State  
+  -  ```store```      The store of the app
 
 index.jsx is configuring the store and setting up the main app container. 
 
